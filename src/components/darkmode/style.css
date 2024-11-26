@@ -1,0 +1,18 @@
+
+.toggle-btn {
+    cursor: pointer;
+    padding: 1px 10px;
+    font-size: 16px;
+    background-color: #26d2f5;
+    color: white;
+    border: none;
+    border-radius: 20px;
+    transition: 0.3s;
+  }
+  
+  .toggle-btn.off {
+    background-color: #ccc;
+    color: rgb(252, 244, 244);
+  }
+
+  
