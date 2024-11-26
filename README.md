@@ -1,7 +1,9 @@
-# React  TMDB Movie Application with Vite and Tailwind CSS
+# TMDB Movie Application 
 
 This is a React project bootstrapped with Vite and styled using Tailwind CSS. The project is configured for deployment on Netlify.
-Project Structure
+
+
+## Project Structure
 
     dist/: Contains the production build of the app.
     public/: Static assets like images and fonts that don't need to be processed by Vite.
