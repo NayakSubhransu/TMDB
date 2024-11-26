@@ -1,8 +1,14 @@
-# React + Vite
+# React  TMDB Movie Application with Vite and Tailwind CSS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a React project bootstrapped with Vite and styled using Tailwind CSS. The project is configured for deployment on Netlify.
+Project Structure
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+    dist/: Contains the production build of the app.
+    public/: Static assets like images and fonts that don't need to be processed by Vite.
+    src/: The main source directory containing React components, pages, and application logic.
+    index.html: The entry point for the web app.
+    vite.config.js: Vite configuration for setting up the development and production build process.
+    netlify.toml: Configuration file for deploying on Netlify.
+    eslint.config.js: Configures ESLint for code linting and quality checks.
+    package.json & package-lock.json: Dependency management for the project.
+    tailwind.config.js & postcss.config.js: Configuration files for Tailwind CSS and PostCSS for building responsive, utility-first CSS.
