@@ -17,9 +17,10 @@ This is a React project bootstrapped with Vite and styled using Tailwind CSS. Th
 
 ## Project Screenshots:
 
-    ![Home Page](https://github.com/user-attachments/assets/e86bb009-fc5d-48ce-9fcb-1c08269799b2)
+   
 
-    ![Bottom Page](https://github.com/user-attachments/assets/01f8aa4c-b672-4005-ac17-b895eb888a9e)
+    ![image](https://github.com/user-attachments/assets/b7d7ccdb-6195-46fa-9bf3-4799b4d4983c)
+
 ![image](https://github.com/user-attachments/assets/ca13d69c-ae00-4ee2-85f0-e921226e18c5)
 
 
