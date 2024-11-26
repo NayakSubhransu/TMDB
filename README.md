@@ -14,3 +14,11 @@ This is a React project bootstrapped with Vite and styled using Tailwind CSS. Th
     eslint.config.js: Configures ESLint for code linting and quality checks.
     package.json & package-lock.json: Dependency management for the project.
     tailwind.config.js & postcss.config.js: Configuration files for Tailwind CSS and PostCSS for building responsive, utility-first CSS.
+
+## Project Screenshots:
+
+    ![Home Page](https://github.com/user-attachments/assets/e86bb009-fc5d-48ce-9fcb-1c08269799b2)
+
+    ![Bottom Page](https://github.com/user-attachments/assets/01f8aa4c-b672-4005-ac17-b895eb888a9e)
+
+
